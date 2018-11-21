@@ -1,5 +1,7 @@
 ## [qa & chatbot](https://github.com/xwzhong/papernote/tree/master/chatbot)
 ### retrieval-based ([leaderboard](https://github.com/xwzhong/papernote/blob/master/chatbot/README.md)):
+* _2018.06_ Modeling Multi-turn Conversation with Deep Utterance Aggregation \[[arxiv](https://arxiv.org/abs/1806.09102)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Modeling%20Multi-turn%20Conversation%20with%20Deep%20Utterance%20Aggregation.md)\]
+* _2017.11_ A Survey on Dialogue Systems: Recent Advances and New Frontiers \[[arxiv](https://arxiv.org/abs/1711.01731)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/A%20Survey%20on%20Dialogue%20Systems:%20Recent%20Advances%20and%20New%20Frontiers.md)\]
 * _2017.05_ IRGAN \[[arxiv](https://arxiv.org/abs/1705.10513)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/IRGAN%EF%BC%9AA%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieval%20Models.md)\]
 * _2017.02_ Bilateral Multi-Perspective Matching for Natural Language Sentences \[[arxiv](https://arxiv.org/abs/1702.03814v3)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Bilateral%20Multi-Perspective%20Matching%20for%20Natural%20Language%20Sentences.md)\]
 * _2016.12_ A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots \[[arxiv](https://arxiv.org/abs/1612.01627)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequential%20Match%20Network-A%20New%20Architecture%20for%20Multi-trun%20Response%20Selection%20in%20Retrieval-based%20Chatbots.md)\]
@@ -12,8 +14,10 @@
 * _2018.04_ Chat More: Deepening and Widening the Chatting Topic via A Deep Model \[[paper](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Chat%20More:%20Deepening%20and%20Widening%20the%20Chatting%20Topic%20via%20A%20Deep%20Model.md)\]
 * _2018.01_ From Eliza to XiaoIce: Challenges and Opportunities with Social Chatbots \[[arxiv](https://arxiv.org/abs/1801.01957)\] \[[translation](https://www.jiqizhixin.com/articles/2018-01-16-6)\]
 * _2017.11_ Neural Response Generation with Dynamic Vocabularies \[[arxiv](https://arxiv.org/abs/1711.11191)\] [note]
+* _2017.11_ MOJITALK: Generating Emotional Responses \[[arxiv](https://arxiv.org/abs/1711.04090)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/MOJITALK:%20Generating%20Emotional%20Responses%20at%20Scale.md)\]
 * _2017.07_ AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine \[[aclweb](http://www.aclweb.org/anthology/P17-2079)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/AliMe%20Chat:%20A%20Sequence%20to%20Sequence%20and%20Rerank%20based%20Chatbot%20Engine.md)\]
 * _2017.04_ Emotional Conversation Generation with Internal and External Memory \[[arxiv](https://arxiv.org/abs/1704.01074)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Emotional%20Chatting%20Machine%EF%BC%9AEmotional%20Conversation%20Generation%20with%20Internal%20and%20External%20Memory.md)\]
+* _2017.03_ Learning Discourse-level Diversity for Neural Dialog Models using CVAE \[[arxiv](https://arxiv.org/abs/1703.10960)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Learning%20Discourse-level%20Diversity%20for%20Neural%20Dialog%20Models%20using%20Conditional%20Variational%20Autoencoders.md)\]
 * _2017.02_ A Knowledeg-Grounded Neural Conversation Model \[[arxiv](https://arxiv.org/abs/1702.01932v1)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/A%20Knowledeg-Grounded%20Neural%20Conversation%20Model.md)\]
 * _2017.01_ Generating Long and Diverse Responses with Neural Conversation Models \[[arxiv](https://arxiv.org/abs/1701.03185)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Generating%20Long%20and%20Diverse%20Responses%20with%20Neural%20Conversation%20Models.md)\]
 * _2016.07_ Sequence to Backward and Forward Sequence \[[arxiv](https://arxiv.org/abs/1607.00970)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Sequence%20to%20Backward%20and%20Forward%20Sequences%20A%20Content-Introducing%20Approach%20to%20Generative%20Short-Text%20Conversation.md)\]
@@ -22,13 +26,20 @@
 * _2015.03_ Neural Responding Machine for Short-Text Conversation \[[arxiv](http://de.arxiv.org/pdf/1503.02364)\] \[[note](https://github.com/xwzhong/papernote/blob/master/chatbot/Neural%20Responding%20Machine%20for%20Short-Text%20Conversation.md)\]
 
 ## [classification](https://github.com/xwzhong/papernote/blob/master/classification)
+* _2018.06_ SGM: Sequence Generation Model for Multi-Label Classification \[[arxiv](https://arxiv.org/abs/1806.04822)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/SGM:%20Sequence%20Generation%20Model%20for%20Multi-Label%20Classification.md)\]
+* _2017.08_ Using millions of emoji occurrences to learn any-domain representations for ... \[[aclweb](http://aclweb.org/anthology/D17-1169)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Using%20millions%20of%20emoji%20occurrences%20to%20learn%20any-domain%20representations%20for%20detecting%20sentiment%2C%20emotion%20and%20sarcasm.md)\]
 * _2016.xx_ Attention-based LSTM for Aspect-level Sentiment Classification \[[aclweb](https://aclweb.org/anthology/D16-1058)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Attention-based%20LSTM%20for%20Aspect-level%20Sentiment%20Classification.md)\]
 * _2016.07_ Bag of Tricks for Efficient Text Classification(fasttext) \[[arxiv](https://arxiv.org/abs/1607.01759)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.md)\]
+* _2016.06_ Hierarchical Attention Networks for Document Classification \[[aclweb](http://www.aclweb.org/anthology/N16-1174)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Hierarchical%20Attention%20Networks%20for%20Document%20Classification.md)\]
+* _2016.03_ Sequential Short-Text Classification with Recurrent and Convolutional Neural Networks \[[arxiv](https://arxiv.org/abs/1603.03827)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Sequential%20Short-Text%20Classification%20with%20Recurrent%20and%20Convolutional%20Neural%20Networks.md)\]
+* _2015.07_ Classifying Relations by Ranking with Convolutional Neural Networks \[[aclweb](https://www.aclweb.org/anthology/P15-1061)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Classifying%20Relations%20by%20Ranking%20with%20Convolutional%20Neural%20Networks.md)\]
 * _2014.08_ Convolutional Neural Networks for Sentence Classification \[[aclweb](http://www.aclweb.org/anthology/D14-1181)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.md)\]
 * _2012.07_ Baselines and Bigrams: Simple, Good Sentiment and Topic Classification \[[aclweb](https://www.aclweb.org/anthology/P12-2018)\] \[[note](https://github.com/xwzhong/papernote/blob/master/classification/Baselines%20and%20Bigrams:%20Simple%2C%20Good%20Sentiment%20and%20Topic%20Classification.md)\]
 
 ## [embedding](https://github.com/xwzhong/papernote/tree/master/embedding)
 ### word embedding:
+* _2018.09_ Uncovering divergent linguistic information in word embeddings with lessons for ... \[[arxiv](https://arxiv.org/abs/1809.02094)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Uncovering%20divergent%20linguistic%20information%20in%20word%20embeddings%20with%20lessons%20for%20intrinsic%20and%20extrinsic%20evaluation.md)\]
+* _2018.02_ Deep contextualized word representations(ELMo) \[[arxiv](https://arxiv.org/abs/1802.05365)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Deep%20contextualized%20word%20representations.md)\]
 * _2017.12_ Advances in Pre-Training Distributed Word Representations \[[arxiv](https://arxiv.org/abs/1712.09405)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Advances%20in%20Pre-Training%20Distributed%20Word%20Representations.md)\]
 * _2017.07_ A Simple Approach to Learn Polysemous Word Embeddings \[[arxiv](https://arxiv.org/pdf/1707.01793.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/A%20Simple%20Approach%20to%20Learn%20Polysemous%20Word%20Embeddings.md)\]
 * _2016.07_ Enriching Word Vectors with Subword Information \[[arxiv](https://arxiv.org/abs/1607.04606)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Enriching%20Word%20Vectors%20with%20Subword%20Information.md)\]
@@ -46,6 +57,7 @@
 * _2015.11_ Order-Embeddings of Images and Language \[[arxiv](https://arxiv.org/pdf/1511.06361.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/embedding/Order-Embeddings%20of%20Images%20and%20Language.md)\]
 
 ## [regularization & normalization](https://github.com/xwzhong/papernote/tree/master/regularization)
+* _2018.08_ Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning \[[arxiv](https://arxiv.org/abs/1808.03578)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Dropout%20is%20a%20special%20case%20of%20the%20stochastic%20delta%20rule:%20faster%20and%20more%20accurate%20deep%20learning.md)\]
 * _2018.05_ How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift) \[[arxiv](https://arxiv.org/abs/1805.11604)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/How%20Does%20Batch%20Normalization%20Help%20Optimization%3F%20(No%2C%20It%20Is%20Not%20About%20Internal%20Covariate%20Shift)%20.md)\]
 * _2017.02_ Batch Renormalization \[[arxiv](https://arxiv.org/abs/1702.03275)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Batch%20Renormalization:%20Towards%20Reducing%20Minibatch%20Dependence%20in%20Batch-Normalized%20Models.md)\]
 * _2016.07_ Layer Normalization \[[arxiv](https://arxiv.org/abs/1607.06450)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/Layer%20Normalization.md)\]
@@ -60,6 +72,8 @@
 * _2009.06_ Curriculum Learning \[[collobert](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/regularization/curriculum%20learning.md)\]
 
 ## [neural network](https://github.com/xwzhong/papernote/tree/master/neural%20network/)
+* _2017.11_ Attentive Language Models \[[aclweb](http://www.aclweb.org/anthology/I17-1045)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Attentive%20Language%20Models.md)\]
+* _2017.04_ Contextual Bidirectional Long Short-Term Memory Recurrent Neural Network Language Models \[[aclweb](http://www.aclweb.org/anthology/E17-1096)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Contextual%20Bidirectional%20Long%20Short-Term%20Memory%20Recurrent%20Neural%20Network%20Language%20Models:%20A%20Generative%20Approach%20to%20Sentiment%20Analysis.md)\]
 * _2017.04_ Learning to Generate Reviews and Discovering Sentiment \[[arxiv](http://de.arxiv.org/pdf/1704.01444)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Learning%20to%20Generate%20Reviews%20and%20Discovering%20Sentiment.md)\]
 * _2017.04_ Exploring Sparsity in Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1704.05119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Exploring%20Sparsity%20in%20Recurrent%20Neural%20Networks.md)\]
 * _2017.02_ Deep Nets Don't Learn Via Memorization \[[openreview](https://openreview.net/pdf?id=rJv6ZgHYg)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Deep%20Nets%20Don't%20Learn%20Via%20Memorization.md)\]
@@ -79,24 +93,32 @@
 * _2013.12_ How to Construct Deep Recurrent Neural Networks \[[arxiv](https://arxiv.org/abs/1312.6026)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.md)\]
 * _2010.xx_ Understanding the difficulty of training deep feedforward neural networks \[[imag](http://www-prima.imag.fr/jlc/Courses/2016/PRML/XavierInitialisation.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/neural%20network/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.md)\]
 
+## [transformer](https://github.com/xwzhong/papernote/tree/master/transformer/)
+* _2018.10_ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding \[[arxiv](https://arxiv.org/abs/1810.04805)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/BERT:%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.md)\]
+* _2018.06_ Improving Language Understanding by Generative Pre-Training \[[amazonaws](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/Improving%20Language%20Understanding%20by%20Generative%20Pre-Training.md)\]
+* _2018.03_ Universal Sentence Encoder \[[arxiv](https://arxiv.org/abs/1803.11175)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/Universal%20Sentence%20Encoder.md)\]
+* _2017.06_ Attention is All You Need \[[arxiv](https://arxiv.org/abs/1706.03762)\] \[[note](https://github.com/xwzhong/papernote/blob/master/transformer/Attention%20is%20All%20You%20Need.md)\]
+
 ## [sequence to sequence](https://github.com/xwzhong/papernote/tree/master/sequence%20to%20sequence/)
+* _2018.07_ Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding \[[arxiv](https://arxiv.org/abs/1807.01554)\] \[[translation](https://www.jiqizhixin.com/articles/2018-08-20-8)\]
+* _2018.07_ Fluency Boost Learning and Inference for Neural Grammatical Error Correction \[[aclweb](http://aclweb.org/anthology/P18-1097)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Fluency%20Boost%20Learning%20and%20Inference%20for%20Neural%20Grammatical%20Error%20Correction.md)\]
+* _2017.04_ Get To The Point: Summarization with Pointer-Generator Networks \[[arxiv](https://arxiv.org/abs/1704.04368)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Get%20To%20The%20Point:%20Summarization%20with%20Pointer-Generator%20Networks.md)\]
 * _2017.04_ Learning to Skim Text \[[arxiv](https://arxiv.org/pdf/1704.06877.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Learning%20to%20Skim%20Text.md)\]
+* _2015.06_ Pointer Networks \[[arxiv](https://arxiv.org/abs/1506.03134)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Pointer%20Networks.md)\]
 * _2015.06_ Skip-Thought Vectors \[[arxiv](https://arxiv.org/abs/1506.06726)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Skip-Thought%20Vectors.md)\]
 * _2014.12_ Grammar as a Foreign Language \[[arxiv](https://arxiv.org/abs/1412.7449)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Grammar%20as%20a%20Foreign%20Language.md)\]
 * _2014.12_ On Using Very Large Target Vocabulary for Neural Machine Translation \[[arxiv](https://arxiv.org/abs/1412.2007v2)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md)\]
 * _2014.09_ Neural Machine Translation by Jontly Learning to Align and Translate \[[arxiv](https://arxiv.org/abs/1409.0473)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Neural%20Machine%20Translation%20by%20Jontly%20Learning%20to%20Align%20and%20Translate.md)\]
 * _2014.09_ Sequence to Sequence Learning with Neural Networks \[[arxiv](https://arxiv.org/abs/1409.3215)\] \[[note](https://github.com/xwzhong/papernote/blob/master/sequence%20to%20sequence/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)\]
 
-## [reading comprehension](https://github.com/xwzhong/papernote/tree/master/reading%20comprehension)
-* _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arxiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
-
-## [reasoning](https://github.com/xwzhong/papernote/tree/master/reasoning)
-* _2017.06_ A simple neural network module for relational reasoning \[[arxiv](https://arxiv.org/abs/1706.01427)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reasoning/A%20simple%20neural%20network%20module%20for%20relational%20reasoning.md)\]
-
-## [information retrieval](https://github.com/xwzhong/papernote/tree/master/information%20retrieval)
-* _2005.08_ Personalizing Search via Automated Analysis of Interests and Activities \[[microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigir05.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/information%20retrieval/Personalizing%20Search%20via%20Automated%20Analysis%20of%20Interests%20and%20Activities.md)\]
-
 ## [name entity recognition](https://github.com/xwzhong/papernote/tree/master/name%20entity%20recognition)
 * _2018.03_ Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss \[[arxiv](https://arxiv.org/pdf/1803.03378.pdf)\] \[note\]
+* _2017.04_ Semi-supervised Multitask Learning for Sequence Labeling \[[arxiv](https://arxiv.org/abs/1704.07156)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Semi-supervised%20Multitask%20Learning%20for%20Sequence%20Labeling.md)\]
 * _2016.03_ Neural Architectures for Named Entity Recognition \[[arxiv](https://arxiv.org/abs/1603.01360)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)\]
 * _2016.xx_ Neural Architectures for Fine-grained Entity Type Classification \[[aclweb](https://www.aclweb.org/anthology/E17-1119)\] \[[note](https://github.com/xwzhong/papernote/blob/master/name%20entity%20recognition/Neural%20Architectures%20for%20Fine-grained%20Entity%20Type%20Classification.md)\]
+
+## *others*
+* _2017.06_ A simple neural network module for relational reasoning \[[arxiv](https://arxiv.org/abs/1706.01427)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reasoning/A%20simple%20neural%20network%20module%20for%20relational%20reasoning.md)\]
+* _2016.11_ Word or Characters, Fine-grained Gating For Reading Comprehension \[[arxiv](https://arxiv.org/abs/1611.01724)\] \[[note](https://github.com/xwzhong/papernote/blob/master/reading%20comprehension/Word%20or%20Characters%2C%20Fine-grained%20Gating%20For%20Reading%20Comprehension.md)\]
+* _2005.08_ Personalizing Search via Automated Analysis of Interests and Activities \[[microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigir05.pdf)\] \[[note](https://github.com/xwzhong/papernote/blob/master/information%20retrieval/Personalizing%20Search%20via%20Automated%20Analysis%20of%20Interests%20and%20Activities.md)\]
+
